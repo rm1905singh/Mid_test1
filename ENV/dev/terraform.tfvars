@@ -95,3 +95,11 @@ lbs = {
     pip_name            = "rm_pip"
   }
 }
+kvs = {
+  kv = {
+    name                = "rm_kvs"
+    location            = "westus"
+    resource_group_name = "rm_rgs1"
+
+  }
+}
